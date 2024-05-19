@@ -32,11 +32,10 @@ project-root/
     │   ├── Task.c             // Task management implementation
     │   ├── kernel.c           // Kernel main implementation
     │   ├── kernel_port/
-    │   │   ├── STK/           // STK-specific implementation
-    │   │   └── port.c         // Port-specific source file
-    │   └── ...                // Other source files
+    │   │   ├── port.c         // Port-specific source file
+    └── └── └── STK/           // STK-specific implementation
 ```
-
+STK/           // STK-specific implementation
 ## Getting Started
 
 ### Prerequisites
